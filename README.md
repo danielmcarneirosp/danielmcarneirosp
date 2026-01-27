@@ -60,3 +60,9 @@
 </p>
 
 ### CERTIFICAÇÕES
+
+| Curso                 | Certificação                    |
+|--------------------------|
+| Sistemas de Inteligência Artifical | ![Certificado](https://hermes.dio.me/certificates/UJX6ZK31.pdf)| 
+
+| 
