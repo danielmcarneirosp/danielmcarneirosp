@@ -11,7 +11,7 @@
 --------------------------------------------
 📫 [E-mail](daniel@dmcsysteminformatica.com.br)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](daniel-dmcsystem)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/daniel-dmcsystem)
 
 
 <!--
