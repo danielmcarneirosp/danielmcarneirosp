@@ -1,22 +1,26 @@
 ## Sejam Bem-Vindos ao meu Mundo GitHub 👋
 
-  ![Programmer](https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif)
+<p align="center">
+   <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif width=400px">
+</p>
 
 ------------------------
 
-👨 Olá me chamo Daniel Carneiro!
+👨 Olá me chamo Daniel M. Carneiro, sou graduado em Análise de Sistemas de Informações desde 1995.
 
-💁 Sou Analista de Sistemas Autônomo, sempre buscando novos conhecimentos em novas Tecnologias.
+💁 Atuo na Área comercial, desenvolvendo Sistemas Personalizados para pequenas e médio Empresas. Sou apaixonado por novas Tecnologias.
+
 
 --------------------------------------------
-📫 [E-mail](daniel@dmcsysteminformatica.com.br)
+📫 daniel@dmcsysteminformatica.com.br 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/daniel-dmcsystem)
-
-
 <a href="https://www.instagram.com/danieldmcsystemsp" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
+--------------------------
+
+## MINHAS TECNOLOGIAS
 
 
 <!--
