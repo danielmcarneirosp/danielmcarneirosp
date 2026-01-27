@@ -1,6 +1,6 @@
-## Sejam Bem-Vindos ao meu Mundo Git 👋
+## Sejam Bem-Vindos ao meu Mundo GitHub 👋
 
-![Programmer](https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif)
+  ![Programmer](https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif)
 
 ------------------------
 
