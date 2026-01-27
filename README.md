@@ -35,11 +35,22 @@
 </p>
 
 -------------------------
-### BANCO DE DADOS
+### CONHECIMENTOS SOĹIDOS EM BANCO DE DADOS
 
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=100px/>
-          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="100px"/>
+                
 </p>
+
+### CONHECIMENTOS BÁSICO EM BANCO DE DADOS
+<p align="center">
+   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="100px"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100px"/>   
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="100px"/>                 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="100px" />          
+</p>
+
 
 
