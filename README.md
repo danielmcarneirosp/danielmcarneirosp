@@ -20,7 +20,14 @@
 </a>
 --------------------------
 
-## MINHAS TECNOLOGIAS
+## CONHECIMENTOS NAS SEGUINTES TECNOLOGIAS:
+
+### PROGRAMAÇÃO
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" />        
+          
+</p>
 
 
 <!--
