@@ -11,7 +11,12 @@
 --------------------------------------------
 📫 [E-mail](daniel@dmcsysteminformatica.com.br)
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/daniel-dmcsystem)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/daniel-dmcsystem)
+
+
+<a href="https://www.instagram.com/danieldmcsystemsp" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 
 <!--
