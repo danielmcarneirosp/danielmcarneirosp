@@ -34,3 +34,12 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="100px"/>       
 </p>
 
+-------------------------
+### BANCO DE DADOS
+
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" with=100px/>
+          
+</p>
+
+
