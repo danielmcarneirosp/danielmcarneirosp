@@ -1,4 +1,4 @@
-## Sejam Bem-Vindos ao meu Mundo GitHub 👋
+<h1 align="center"> Sejam Bem-Vindos ao meu Mundo GitHub 👋</h1>
 
 <p align="center">
    <img src="https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif width=400px">
