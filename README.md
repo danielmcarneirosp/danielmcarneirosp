@@ -2,7 +2,16 @@
 
 ![Programmer](https://media1.tenor.com/m/C9qukZqPPS4AAAAC/coding-typing.gif)
 
+------------------------
 
+👨 Olá me chamo Daniel Carneiro!
+
+💁 Sou Analista de Sistemas Autônomo, sempre buscando novos conhecimentos em Tecnologia da Informação.
+
+--------------------------------------------
+📫 [E-mail](daniel@dmcsysteminformatica.com.br)
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](daniel-dmcsystem)
 
 
 <!--
