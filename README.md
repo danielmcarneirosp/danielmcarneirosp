@@ -6,7 +6,7 @@
 
 👨 Olá me chamo Daniel Carneiro!
 
-💁 Sou Analista de Sistemas Autônomo, sempre buscando novos conhecimentos em Tecnologia da Informação.
+💁 Sou Analista de Sistemas Autônomo, sempre buscando novos conhecimentos em novas Tecnologias.
 
 --------------------------------------------
 📫 [E-mail](daniel@dmcsysteminformatica.com.br)
