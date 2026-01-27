@@ -38,7 +38,7 @@
 ### BANCO DE DADOS
 
 <p align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" with=100px/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width=100px/>
           
 </p>
 
