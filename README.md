@@ -1,4 +1,7 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao meu Mundo Git 👋
+
+![Programmer](https://media1.tenor.com/m/bL67R8Pz1ekAAAAd/scaler-create-impact.gif)
+
 
 <!--
 **danielmcarneirosp/danielmcarneirosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
