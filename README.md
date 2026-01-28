@@ -62,7 +62,8 @@
 ### CERTIFICAÇÕES
 
 | Curso                                      | Certificação                                   |
-|-------------------------------------------------------------------------------| 
+|-------------------------------------------------------------------------------|
+ 
 | Arrays e Estrutudas de Repetição JavaScript| [Certificaão](https://hermes.dio.me/certificates/LL7Q5N9W.pdf)|
 
 
