@@ -61,7 +61,9 @@
 
 ### CERTIFICAÇÕES
 
-| CURSO         | CERTIFICADO   |
-|---------------| --------------|
-| ABDE          | ABCED         |
-|---------------|---------------|
+|CURSO         | CERTIFICADO   |
+|--------------| --------------|
+|ABDE          | ABCED         |
+|--------------|---------------|
+
+> PORTIFÓLIO EM DESENVOLVIMENTO
