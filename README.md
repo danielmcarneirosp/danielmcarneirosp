@@ -61,8 +61,9 @@
 
 ### CERTIFICAÇÕES
 
-| Curso                            | Certificação                    |
-|---------------------------------------------------------|
-| Sistemas de Inteligência Artifical | ![Certificado](https://hermes.dio.me/certificates/UJX6ZK31.pdf)| 
+| Curso                                      | Certificação                                   |
+|---------------------------------------------------------------------------------------------
+| Arrays e Estrutudas de Repetição JavaScript| [Certificaão](https://hermes.dio.me/certificates/LL7Q5N9W.pdf)|
 
-| 
+
+
