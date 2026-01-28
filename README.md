@@ -58,3 +58,10 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="100px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="100px" />     
 </p>
+
+### CERTIFICAÇÕES
+
+| CURSO         | CERTIFICADO   |
+|---------------| --------------|
+| ABDE          | ABCED         |
+|---------------|---------------|
