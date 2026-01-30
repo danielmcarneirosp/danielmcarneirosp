@@ -76,7 +76,9 @@ com Python | [Certificados](https://hermes.dio.me/certificates/RLRORLSS.pdf)
 |Java e java.lang: programe com a classe Object e String | [Certificado](https://cursos.alura.com.br/user/dmcsystem/course/java-pacotes-e-java-lang/certificate)
 
 ------------------------
+
 ![Daniel Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmcarneirosp&show_icons=true&theme=radical)
+
 
 
 
