@@ -25,7 +25,7 @@
 ### PROGRAMAÇÃO
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="100px"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="100"/>          
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>          
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
@@ -71,3 +71,10 @@
 em JavaScript | [Certificado](https://hermes.dio.me/certificates/LL7Q5N9W.pdf)
 |Programação Orientada a Objetos
 com Python | [Certificados](https://hermes.dio.me/certificates/RLRORLSS.pdf)
+|Linux Essentials | [Certificado](https://www.credly.com/badges/151e02ca-d96b-4de2-8566-e564c8f0acee)
+|Windows Forms com C#: Formulários, componentes e eventos | [Certificado](https://cursos.alura.com.br/user/dmcsystem/course/windows-forms-csharp-formularios-componentes-eventos/certificate)
+|Java e java.lang: programe com a classe Object e String | [Certificado](https://cursos.alura.com.br/user/dmcsystem/course/java-pacotes-e-java-lang/certificate)
+
+------------------------
+![Daniel Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=danielmcarneiroso&show_icons=true&theme=cobalt)
+
