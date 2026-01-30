@@ -25,6 +25,7 @@
 ### PROGRAMAÇÃO
 <p align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cobol/cobol-original.svg" width="100px"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />          
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100px"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/>          
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
@@ -59,4 +60,14 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="100px" />     
 </p>
 
-> PORTIFÓLIO EM DESENVOLVIMENTO
+--------------
+> CERTIFICAÇÕES
+
+|Cursos | Certificados |
+|-------|--------------|
+|Sistemas de Inteligência Artificial | [Certificado](https://hermes.dio.me/certificates/UJX6ZK31.pdf)
+|Formatação com Markdown| [Certificado](https://hermes.dio.me/certificates/SKFW9HRN.pdf)
+|Arrays e Estruturas de Repetição
+em JavaScript | [Certificado](https://hermes.dio.me/certificates/LL7Q5N9W.pdf)
+|Programação Orientada a Objetos
+com Python | [Certificados](https://hermes.dio.me/certificates/RLRORLSS.pdf)
